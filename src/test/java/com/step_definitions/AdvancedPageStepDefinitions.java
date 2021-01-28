@@ -4,8 +4,7 @@ import com.pages.AdvancedSearchPage;
 import com.utils.Driver;
 import io.cucumber.java.en.*;
 import org.junit.Assert;
-import org.openqa.selenium.support.PageFactory;
-import org.openqa.selenium.support.ui.ExpectedConditions;
+
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.util.List;

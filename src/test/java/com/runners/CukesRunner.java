@@ -12,7 +12,7 @@ import org.junit.runner.RunWith;
         },
         glue = "com/step_definitions",
         publish = true,
-        tags = "@fillInfo",
+        tags = "",
 
         dryRun = false
 
